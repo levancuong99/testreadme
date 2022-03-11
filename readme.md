@@ -1,10 +1,10 @@
 # Heading 1
-=======
+
 
 **Text**
 
 ~~Text~~
-:--
+|:--|
 - Text1
 - Text1
 
