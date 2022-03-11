@@ -1,4 +1,5 @@
-# Heading 1
+Heading 1
+=========
 
 
 **Text**
@@ -10,9 +11,9 @@
 1. Text1
 2. Text2
 ---
-| Number | Next number | Previous number |
+| **Number** | Next number | Previous number |
 | :----- | :---------- | :-------------- |
-| Five   | [TC01](TC01.jpg)        | Four            |
+| Five   | [TC01](TC01.jpg)        | Four  |
 | Ten    | Eleven      | Nine            |
 | Seven  | Eight       | Six             |
 | Two    | Three       | One             |
