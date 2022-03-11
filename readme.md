@@ -12,7 +12,7 @@ Heading 1
 2. Text2
 ---
 | **Number** | Next number | Previous number |
-| :----- | :---------- | :-------------- |
+| :--------------------- | :---------- | :-------------- |
 | Five   | [TC01](TC01.jpg)        | Four  |
 | Ten    | Eleven      | Nine            |
 | Seven  | Eight       | Six             |
