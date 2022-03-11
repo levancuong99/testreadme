@@ -4,7 +4,6 @@
 **Text**
 
 ~~Text~~
-|:--|
 - Text1
 - Text1
 
