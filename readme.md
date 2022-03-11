@@ -13,7 +13,7 @@
 
 | Number | Next number | Previous number |
 | :----- | :---------- | :-------------- |
-| Five   | Six         | Four            |
+| Five      | Six         | Four            |
 | Ten    | Eleven      | Nine            |
 | Seven  | Eight       | Six             |
 | Two    | Three       | One             |
